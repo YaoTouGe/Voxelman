@@ -2,6 +2,8 @@ Thumbs.db
 Desktop.ini
 .DS_Store
 *.swp
+*.csproj
+*.sln
 
 /Library
 /Logs
@@ -10,3 +12,5 @@ Desktop.ini
 /UserSettings
 
 /Assets/SceneDependencyCache
+/obj
+/.idea
